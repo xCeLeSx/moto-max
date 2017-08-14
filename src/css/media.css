@@ -1,0 +1,9 @@
+@media only screen and (max-width: 480px) {
+  header dsc {
+    float: inherit; }
+  .slider {
+    display: none; }
+  .products img {
+    display: none; } }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1lZGlhLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSTtJQUVRLGVBQWMsRUFDakI7RUFFTDtJQUNJLGNBQWEsRUFDaEI7RUFDRDtJQUVRLGNBQWEsRUFDaEIsRUFBQSIsImZpbGUiOiJtZWRpYS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDQ4MHB4KSB7XHJcbiAgICBoZWFkZXIge1xyXG4gICAgICAgIGRzY3tcclxuICAgICAgICAgICAgZmxvYXQ6IGluaGVyaXQ7XHJcbiAgICAgICAgfVxyXG4gICAgfVxyXG4gICAgLnNsaWRlciB7XHJcbiAgICAgICAgZGlzcGxheTogbm9uZTtcclxuICAgIH1cclxuICAgIC5wcm9kdWN0cyB7XHJcbiAgICAgICAgaW1nIHtcclxuICAgICAgICAgICAgZGlzcGxheTogbm9uZTtcclxuICAgICAgICB9XHJcbiAgICB9XHJcbn1cclxuIl19 */
